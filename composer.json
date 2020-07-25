@@ -1,0 +1,10 @@
+{
+  "require": {
+    "voku/simple_html_dom": "^4.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "includes\\": "includes"
+    }
+  }
+}
